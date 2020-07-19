@@ -1,0 +1,6 @@
+<meta property="og:site_name" content="Rock n Cat Img Storage">
+<meta property="og:url" content="img1.rockncat.workers.dev">
+<meta property="og:title" content="img1">
+<meta property="og:description" content="Img1 a Discord Call">
+<meta property="og:type" content="website">
+<meta name="og:image" itemprop="image" content="https://to-be-tainted.is-inside.me/zzoaLK9H.png">
